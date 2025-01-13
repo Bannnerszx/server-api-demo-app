@@ -10,6 +10,8 @@
     "ignore-styles": "^5.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-native": "^0.76.6",
+    "react-native-web": "^0.19.13",
     "react-router": "6.14",
     "react-router-dom": "6.14",
     "react-scripts": "5.0.1",
